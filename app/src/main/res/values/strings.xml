@@ -1,49 +1,49 @@
 <resources>
     <string name="app_name">Simple Gallery</string>
-    <string name="share_via">Share via</string>
-    <string name="no_permissions">Not much to do in a gallery without accessing your storage</string>
-    <string name="delete">Delete</string>
-    <string name="deleting">Deleting</string>
-    <string name="edit">Edit</string>
-    <string name="undo">Undo</string>
-    <string name="share">Share</string>
-    <string name="rename_file">Rename file</string>
-    <string name="rename_folder">Rename folder</string>
-    <string name="rename_file_error">Could not rename the file</string>
-    <string name="rename_file_empty">File name must not be empty</string>
-    <string name="rename_folder_error">Could not rename the folder</string>
-    <string name="rename_folder_empty">Folder name must not be empty</string>
-    <string name="rename_folder_ok">Folder renamed successfully</string>
-    <string name="renaming_folder">Renaming folder</string>
-    <string name="extension">Extension</string>
-    <string name="file_deleted">File deleted</string>
-    <string name="setting_wallpaper">Setting wallpaper</string>
-    <string name="open_camera">Open camera</string>
-    <string name="unknown_error">An unknown error occurred</string>
+    <string name="share_via">Teilen über</string>
+    <string name="no_permissions">Nicht viel in einer Galerie zu tun ohne auf Ihren Speicher zuzugreifen</string>
+    <string name="delete">Löschen</string>
+    <string name="deleting">Lösche</string>
+    <string name="edit">Bearbeiten</string>
+    <string name="undo">Rückgängig</string>
+    <string name="share">Teilen</string>
+    <string name="rename_file">Datei umbenennen</string>
+    <string name="rename_folder">Ordner umbenennen</string>
+    <string name="rename_file_error">Konnte Datei nicht umbenennen</string>
+    <string name="rename_file_empty">Dateiname darf nicht leer sein</string>
+    <string name="rename_folder_error">Konnte Ordner nicht umbenennen</string>
+    <string name="rename_folder_empty">Ordnername darf nicht leer sein</string>
+    <string name="rename_folder_ok">Ordner erfolgreich umbenannt</string>
+    <string name="renaming_folder">Benenne Ordner um</string>
+    <string name="extension">Erweiterung</string>
+    <string name="file_deleted">Datei gelöscht</string>
+    <string name="setting_wallpaper">Setze Hintergrund</string>
+    <string name="open_camera">Kamera öffnen</string>
+    <string name="unknown_error">Ein unbekannter Fehler ist aufgetreten</string>
 
     <plurals name="folders_deleted">
-        <item quantity="one">1 folder deleted</item>
-        <item quantity="other">%1$d folders deleted</item>
+        <item quantity="one">1 Ordner gelöscht</item>
+        <item quantity="other">%1$d Ordner gelöscht</item>
     </plurals>
 
     <plurals name="files_deleted">
-        <item quantity="one">1 file deleted</item>
-        <item quantity="other">%1$d files deleted</item>
+        <item quantity="one">1 Datei gelöscht</item>
+        <item quantity="other">%1$d Dateien gelöscht</item>
     </plurals>
 
     <!-- About -->
-    <string name="about">About</string>
-    <string name="website">More simple apps and source code at:\nhttp://simplemobiletools.com</string>
-    <string name="email_label">Send your feedback or suggestions to:</string>
+    <string name="about">Über</string>
+    <string name="website">Mehr simple Apps und Quellcode hier:\nhttp://simplemobiletools.com</string>
+    <string name="email_label">Sende dein Feedback oder Vorschläge (bitte auf Englisch) an:</string>
     <string name="email">hello@simplemobiletools.com</string>
-    <string name="third_party_licences_underlined"><u>Third party licences</u></string>
-    <string name="rate_us_underlined"><u>Rate us in the Play Store</u></string>
-    <string name="follow_us">Follow us:</string>
+    <string name="third_party_licences_underlined"><u>Third party Lizenzen</u></string>
+    <string name="rate_us_underlined"><u>Bewerten Sie uns im Play Store</u></string>
+    <string name="follow_us">Folgen Sie uns:</string>
     <string name="copyright">v %1$s\nCopyright © Simple Mobile Tools %2$d</string>
 
     <!--License-->
-    <string name="notice">This app uses the following third party libraries to make my life easier. Thank you.</string>
-    <string name="third_party_licences">Third party licences</string>
+    <string name="notice">Diese App nutzt die folgenden third party Bibliotheken um mein Leben zu vereinfachen. Danke.</string>
+    <string name="third_party_licences">Third party Lizenzen</string>
     <string name="butterknife_title"><u>Butter Knife (view injector)</u></string>
     <string name="butterknife_text">Copyright 2013 Jake Wharton\n\nLicensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License.You may obtain a copy of the License at\n\nhttp://www.apache.org/licenses/LICENSE-2.0\n\nUnless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS,WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.See the License for the specific language governing permissions and limitations under the License.</string>
     <string name="butterknife_url">https://github.com/JakeWharton/butterknife</string>
